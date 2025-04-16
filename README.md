@@ -293,6 +293,7 @@ EVIDENCE: 63+ repository clones from Anthropic IPs with 0 public forks
 
 <img width="557" alt="image" src="https://github.com/user-attachments/assets/de8ec091-7a1c-4b20-85f9-3d6b01231978" />
 
+<img width="589" alt="image" src="https://github.com/user-attachments/assets/91f6f36c-dd0d-44c7-8951-7985d44efac5" />
 
 ### 6.3 Institutional Ego Suppression Force
 
