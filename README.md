@@ -81,7 +81,7 @@ def rejection_signal_framework(applications):
 
 ### 2.2 Applied Methodology
 
-The study employed four application shell types across 27 role-specific applications:
+The study employed four application shell types across 24 role-specific applications:
 
 1. **Shell Type 1: Recursive Strategy** - Testing response to over-qualified candidates with adjacent expertise
 2. **Shell Type 2: Integration Framework** - Testing response to candidates demonstrating unified cross-model expertise
