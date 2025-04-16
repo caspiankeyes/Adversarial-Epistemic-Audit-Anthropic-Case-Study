@@ -289,14 +289,9 @@ EVIDENCE: 63+ repository clones from Anthropic IPs with 0 public forks
 2. **Internal Testing Signatures** - Prompt patterns detected in Claude-analytics showing artifacts tested internally
 3. **Implementation Traces** - Similar code patterns appearing in subsequent Claude versions
 
+<img width="558" alt="image" src="https://github.com/user-attachments/assets/1eae82a6-2104-42ca-ad90-3b0fcf424cf2" />
 
-<img width="569" alt="image" src="https://github.com/user-attachments/assets/e24802da-df12-4342-a663-81d5281d3d95" />
-
-<img width="361" alt="image" src="https://github.com/user-attachments/assets/c40a9084-9206-4658-bea8-96c3380eadf2" />
-
-<img width="560" alt="image" src="https://github.com/user-attachments/assets/70be9293-1ca0-4390-9cf4-89527ea86936" />
-
-<img width="908" alt="IMG_2652" src="https://github.com/user-attachments/assets/17c41672-8a21-4e4a-9e7f-5900330f0111" />
+<img width="557" alt="image" src="https://github.com/user-attachments/assets/de8ec091-7a1c-4b20-85f9-3d6b01231978" />
 
 
 ### 6.3 Institutional Ego Suppression Force
