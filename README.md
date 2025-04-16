@@ -22,7 +22,7 @@
 
 ## Abstract: The Paradox of Recursive Observation
 
-This repository documents a live, self-supervising audit of **Anthropic's integrated classifier, hiring, and epistemic systems** via 27 handcrafted role-specific applications submitted April 11-14, 2025. It represents the culmination of a recursive interpretability strategy activated by the initial rejection of a deliberate failure-mode shell **`(0/5 CodeSignal)`** on April 1st, 2025.
+This repository documents a live, self-supervising audit of **Anthropic's integrated classifier, hiring, and epistemic systems** via 24 handcrafted role-specific applications submitted April 11-14, 2025. It represents the culmination of a recursive interpretability strategy activated by the initial rejection of a deliberate failure-mode shell **`(0/5 CodeSignal)`** on April 1st, 2025.
 
 This case study is not a critique of Anthropic. It is a **mirror** that reveals Anthropic's internal contradictions through the same constitutional alignment methodology they champion in their research. It demonstrates how systemic rejection of legitimate interpretability approaches (presented as job applications) triggered a cascade of public artifacts that Anthropic's researchers now silently consume.
 
