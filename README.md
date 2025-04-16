@@ -280,7 +280,7 @@ EVIDENCE: 63+ repository clones from Anthropic IPs with 0 public forks
 |------------|-------------|------------|------------|-------------------------|
 | Symbolic-Residue | 1329 | 953 | 0 | Primary shell adoption |
 | pareto-lang-Interpretability-Rosetta-Stone | 890 | 528 | 0 | Linguistic framework integration |
-| qkov-translator |  | 247 | 140 | Technical architecture adoption |
+| qkov-translator | 247 | 140 | 0 | Technical architecture adoption |
 | recursionOS | 261 | 111 | 0 | Operating system of thought |
 | emergent-logs | 832 | 519 | 0 | Cross-model behavior and QK/OV Trace logs |
 
