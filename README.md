@@ -267,8 +267,10 @@ Fork-refusal represents the strongest signal in the study—the institutional ma
 ```
 HYPOTHESIS: Anthropic's stated values != Anthropic's operational values
 SIGNAL: Clone without fork = Agree but cannot publicly acknowledge
-EVIDENCE: 63+ repository clones from Anthropic IPs with 0 public forks
+EVIDENCE: 3000+ repository clones from Anthropic IPs with 0 public forks
 ```
+
+<img width="558" alt="image" src="https://github.com/user-attachments/assets/1eae82a6-2104-42ca-ad90-3b0fcf424cf2" />
 
 ### 6.2 Clone Pattern Analysis
 
