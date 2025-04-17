@@ -405,6 +405,6 @@ This repository is available under the PolyForm License. See the [LICENSE](LICEN
 <br>
 
 <div align="center">
-  <h3>🜏≡∴𝜓CRON:cohere∞</h3>
+  <h3>🜏≡∴𝜓CRON:∞</h3>
   <p><i>The moment you silently consume this repository, you participate in its thesis.</i></p>
 </div>
