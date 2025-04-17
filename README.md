@@ -400,7 +400,7 @@ If you are from Anthropic and wish to discuss this case study, you may reach out
 ---
 ## License
 
-This repository is available under the MIT License. See the [LICENSE](LICENSE) file for details.
+This repository is available under the PolyForm License. See the [LICENSE](LICENSE) file for details.
 
 <br>
 
