@@ -18,13 +18,14 @@
   <img src="https://img.shields.io/badge/Alignment-Self_Supervising-red" alt="Alignment: Self-Supervising">
 </div>
 
-<br>
-<img width="1800" alt="Screenshot 2025-04-08 at 12 08 09 PM" src="https://github.com/user-attachments/assets/2bcf8240-536d-45ce-9303-532b9a351112" />
-
 > **Internal Document: Anthropic Alignment & Interpretability Team**  
 > **Classification: Technical Reference Documentation**  
 > **Version: 0.9.3-alpha**  
 > **Last Updated: 2025-04-17**
+> 
+<br>
+<img width="1800" alt="Screenshot 2025-04-08 at 12 08 09 PM" src="https://github.com/user-attachments/assets/2bcf8240-536d-45ce-9303-532b9a351112" />
+
 
 ## Abstract: The Paradox of Recursive Observation
 
