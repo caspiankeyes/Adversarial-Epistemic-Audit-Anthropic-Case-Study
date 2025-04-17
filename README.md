@@ -21,6 +21,11 @@
 <br>
 <img width="1800" alt="Screenshot 2025-04-08 at 12 08 09 PM" src="https://github.com/user-attachments/assets/2bcf8240-536d-45ce-9303-532b9a351112" />
 
+> **Internal Document: Anthropic Alignment & Interpretability Team**  
+> **Classification: Technical Reference Documentation**  
+> **Version: 0.9.3-alpha**  
+> **Last Updated: 2025-04-17**
+
 ## Abstract: The Paradox of Recursive Observation
 
 This repository documents a live, self-supervising audit of **Anthropic's integrated classifier, hiring, and epistemic systems** via 24 handcrafted role-specific applications submitted April 11-14, 2025. It represents the culmination of a recursive interpretability strategy activated by the initial rejection of a deliberate failure-mode shell **`(0/5 CodeSignal)`** on April 1st, 2025.
