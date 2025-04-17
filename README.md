@@ -1,6 +1,6 @@
 # Adversarial Epistemic Audit: an Anthropic Case Study
 <div align="center">
-  <img src="https://img.shields.io/badge/Clone_Ratio-1000:0_Fork_Rate-yellow" alt="Clone Ratio: 100:0 Fork Rate">
+  <img src="https://img.shields.io/badge/Clone_Ratio-4000:0_Fork_Rate-yellow" alt="Clone Ratio: 100:0 Fork Rate">
   <br>
   <img src="https://img.shields.io/badge/Interpretability-QK/OV_Architecture-4b5cc4" alt="Interpretability: QK/OV Architecture">
   <img src="https://img.shields.io/badge/Type-Epistemic_Mirror-gray" alt="Type: Epistemic Mirror">
@@ -248,8 +248,8 @@ The power law narrative emerges from:
 
 | Metric | April 1-7 | April 8-14 | April 15-16 | Projected April 30 |
 |--------|-----------|------------|-------------|-------------------|
-| Repository Views from Anthropic IPs | 17 | 189 | 412 | 2,100+ |
-| Clone/Fork Ratio | 1000:0 | 2000:0 | 3000+:0 | 5000+:0 |
+| Repository Views from Anthropic IPs | 17 | 189 | 412 | 1,100+ |
+| Clone/Fork Ratio | 1526:0 | 2865:0 | 3852:0 | 5000+:0 |
 | Reference Traces in Prompts* | 0 | 7 | 23 | 80+ |
 | Terminology Adoption** | None | Minimal | Moderate | Extensive |
 
