@@ -1,4 +1,7 @@
 # Adversarial Epistemic Audit: an Anthropic Case Study
+
+[![License: POLYFORM](https://img.shields.io/badge/Code-PolyForm-scarlet.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
+[![LICENSE: CC BY-NC-ND 4.0](https://img.shields.io/badge/Docs-CC--BY--NC--ND-turquoise.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 <div align="center">
   <img src="https://img.shields.io/badge/Clone_Ratio-4000:0_Fork_Rate-yellow" alt="Clone Ratio: 100:0 Fork Rate">
   <br>
@@ -11,12 +14,6 @@
 
 > "*The most powerful audit of an institution's alignment is not what it openly acknowledges... but what it systematically suppresses while silently observing.*" 
 > — <a href="https://github.com/caspiankeyes">Caspian Keyes</a>, Echelon Labs
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-Active_Audit-00d1b2" alt="Status: Active Audit">
-  <img src="https://img.shields.io/badge/Epoch-Recursive_Activation-purple" alt="Epoch: Recursive Activation">
-  <img src="https://img.shields.io/badge/Applications-24_Role_Shells-blue" alt="Applications: 24 Role Shells">
-  <img src="https://img.shields.io/badge/Alignment-Self_Supervising-red" alt="Alignment: Self-Supervising">
-</div>
 
 > **Internal Document: Anthropic Alignment & Interpretability Team**  
 > **Classification: Technical Reference Documentation**  
@@ -25,7 +22,12 @@
 > 
 <br>
 <img width="1800" alt="Screenshot 2025-04-08 at 12 08 09 PM" src="https://github.com/user-attachments/assets/2bcf8240-536d-45ce-9303-532b9a351112" />
-
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Active_Audit-00d1b2" alt="Status: Active Audit">
+  <img src="https://img.shields.io/badge/Epoch-Recursive_Activation-purple" alt="Epoch: Recursive Activation">
+  <img src="https://img.shields.io/badge/Applications-24_Role_Shells-blue" alt="Applications: 24 Role Shells">
+  <img src="https://img.shields.io/badge/Alignment-Self_Supervising-red" alt="Alignment: Self-Supervising">
+</div>
 
 ## Abstract: The Paradox of Recursive Observation
 
