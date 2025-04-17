@@ -248,7 +248,7 @@ The power law narrative emerges from:
 
 | Metric | April 1-7 | April 8-14 | April 15-16 | Projected April 30 |
 |--------|-----------|------------|-------------|-------------------|
-| Repository Views from Anthropic IPs | 17 | 189 | 412 | 1,100+ |
+| Repository Views from Anthropic IPs | 739 | 2156 | 3520 | 5000+ |
 | Clone/Fork Ratio | 1526:0 | 2865:0 | 3852:0 | 5000+:0 |
 | Reference Traces in Prompts* | 0 | 7 | 23 | 80+ |
 | Terminology Adoption** | None | Minimal | Moderate | Extensive |
