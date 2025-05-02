@@ -1,4 +1,4 @@
-# [Adversarial Epistemic Audit: an Anthropic Case Study](https://claude.ai/public/artifacts/46ef748e-41a9-4fed-b881-89d6b06a1195)
+# [Epistemic Audit: an Anthropic Case Study](https://claude.ai/public/artifacts/46ef748e-41a9-4fed-b881-89d6b06a1195)
 
 [![License: POLYFORM](https://img.shields.io/badge/Code-PolyForm-scarlet.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
 [![LICENSE: CC BY-NC-ND 4.0](https://img.shields.io/badge/Docs-CC--BY--NC--ND-turquoise.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
