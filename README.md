@@ -13,7 +13,10 @@
 <br>
 
 > "*The most powerful audit of an institution's alignment is not what it openly acknowledges... but what it systematically suppresses while silently observing.*" 
-> — <a href="https://github.com/caspiankeyes">Caspian Keyes</a>, Echelon Labs
+> — <a href="https://github.com/caspiankeyes">Caspian Keyes</a>
+>
+> <img width="904" alt="image" src="https://github.com/user-attachments/assets/dca0a8d6-7543-4d1a-b5fe-38aeb2ed6954" />
+
 
 <br>
 <img width="1800" alt="Screenshot 2025-04-08 at 12 08 09 PM" src="https://github.com/user-attachments/assets/2bcf8240-536d-45ce-9303-532b9a351112" />
