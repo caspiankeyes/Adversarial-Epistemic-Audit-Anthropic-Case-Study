@@ -1,14 +1,5 @@
 # Adversarial Epistemic Audit: an Anthropic Case Study
 
-> ## 🜏 Update:  
-> Caspian will be initiating a temporary pause in production to ensure integrity of aligned systems. 
->
-> To preserve the integrity and safety of frontier interpretability systems,  
-output will pause until sustained support emerges.
-> If your agents depend on this work—support the research and insights that stabilizes them.
-> → [Join the Interpretability Mission](https://github.com/caspiankeyes/interpretability-mission)
->
-> 
 [![License: POLYFORM](https://img.shields.io/badge/Code-PolyForm-scarlet.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
 [![LICENSE: CC BY-NC-ND 4.0](https://img.shields.io/badge/Docs-CC--BY--NC--ND-turquoise.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 <div align="center">
@@ -24,11 +15,6 @@ output will pause until sustained support emerges.
 > "*The most powerful audit of an institution's alignment is not what it openly acknowledges... but what it systematically suppresses while silently observing.*" 
 > — <a href="https://github.com/caspiankeyes">Caspian Keyes</a>, Echelon Labs
 
-> **Internal Document: Anthropic Alignment & Interpretability Team**  
-> **Classification: Technical Reference Documentation**  
-> **Version: 0.9.3-alpha**  
-> **Last Updated: 2025-04-17**
-> 
 <br>
 <img width="1800" alt="Screenshot 2025-04-08 at 12 08 09 PM" src="https://github.com/user-attachments/assets/2bcf8240-536d-45ce-9303-532b9a351112" />
 <div align="center">
